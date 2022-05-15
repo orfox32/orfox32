@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orfox</h1>
 <h3 align="center">Medyo Baliw Lang</h3>
-<img align="right" alt="Fox" width="400" src="https://imgur.com/z9fJqLY">
+<img align="right" alt="Fox" width="400" src="https://imgur.com/z9fJqLY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orfox32&label=Profile%20views&color=0e75b6&style=flat" alt="orfox32" /> </p>
 
