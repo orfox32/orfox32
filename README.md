@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/orfox3" target="blank"><img src="https://img.shields.io/twitter/follow/orfox3?logo=twitter&style=for-the-badge" alt="orfox3" /></a> </p>
 
+![](https://dcbadge.vercel.app/api/shield/530694588327919616)
+
 - 🔭 I’m currently working on [ZGAD](https://zeegod.com)
 
 - 🌱 I’m currently learning **React Native**
