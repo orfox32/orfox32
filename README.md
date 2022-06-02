@@ -34,6 +34,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orfox32&show_icons=true&locale=en&layout=compact" alt="orfox32" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&show_icons=true&locale=en" alt="orfox32" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&theme=nightowl&show_icons=true&locale=en" alt="orfox32" /></p> 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orfox32&" alt="orfox32" /></p> -->
