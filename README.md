@@ -36,4 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&theme=nightowl&show_icons=true&locale=en" alt="orfox32" /></p> 
 
+<a href="https://github.com/orfox32/ZGAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orfox32&theme=nightowl&show_owner=true&repo=ZGAD" />
+</a>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orfox32&" alt="orfox32" /></p> -->
