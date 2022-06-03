@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Fox" width="400" src="https://imgur.com/z9fJqLY.gif"> -->
 
 <p align="left">
-<a href="https://twitter.com/orfox3" target="blank"><img src="https://img.shields.io/twitter/follow/orfox3?logo=twitter&style=for-the-badge" alt="orfox3" /> <img src="https://dcbadge.vercel.app/api/shield/530694588327919616"></a>  </p>
+<a href="https://twitter.com/orfox3" target="blank"><img src="https://img.shields.io/twitter/follow/orfox3?logo=twitter&style=flat&theme=clean&compact=true" alt="orfox3" /> <img src="https://dcbadge.vercel.app/api/shield/530694588327919616?style=flat&theme=clean&compact=true"></a>  </p>
 
 - 🔭 I’m currently working on [ZGAD](https://zeegod.com)
 
