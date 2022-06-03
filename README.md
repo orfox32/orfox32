@@ -2,13 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Orfox</h1>
 <h3 align="center">Medyo Baliw Lang</h3>
-<img align="right" alt="Fox" width="400" src="https://imgur.com/z9fJqLY.gif">
+<!-- <img align="right" alt="Fox" width="400" src="https://imgur.com/z9fJqLY.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orfox32&label=Profile%20views&color=0e75b6&style=flat" alt="orfox32" /> </p>
-
-<p align="left"> <a href="https://twitter.com/orfox3" target="blank"><img src="https://img.shields.io/twitter/follow/orfox3?logo=twitter&style=for-the-badge" alt="orfox3" /></a> </p>
-
-![](https://dcbadge.vercel.app/api/shield/530694588327919616)
+<p align="left">
+<a href="https://twitter.com/orfox3" target="blank"><img src="https://img.shields.io/twitter/follow/orfox3?logo=twitter&style=for-the-badge" alt="orfox3" /> <img src="https://dcbadge.vercel.app/api/shield/530694588327919616"></a>  </p>
 
 - 🔭 I’m currently working on [ZGAD](https://zeegod.com)
 
@@ -34,10 +31,10 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orfox32&show_icons=true&locale=en&layout=compact" alt="orfox32" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&theme=nightowl&show_icons=true&locale=en" alt="orfox32" /></p> 
-
-<a href="https://github.com/orfox32/ZGAD">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orfox32&theme=nightowl&show_icons=true&locale=en" alt="orfox32" />
+  <a href="https://github.com/orfox32/ZGAD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orfox32&theme=nightowl&show_owner=true&repo=ZGAD" />
 </a>
+</p> 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orfox32&" alt="orfox32" /></p> -->
