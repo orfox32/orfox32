@@ -56,6 +56,7 @@
 <br>
 <div align="center">
    <img width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple"/>
+   <br>
    <img width=390 src="https://github-readme-stats-six-tawny.vercel.app/api?username=orfox32&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10"/>
    <br>
    <img width=325 align="center" src="https://github-readme-stats-six-tawny.vercel.app/api/top-langs/?username=orfox32&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
