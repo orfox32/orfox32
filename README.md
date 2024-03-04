@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge">
 
 <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&random=false&width=435&lines=Hi+there!;I'm+Orfox" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!;I'm+Orfox" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
