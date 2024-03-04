@@ -11,7 +11,7 @@
 
 <br/>
 
-<div align="center>
+<div align="center">
 
    🔭 I’m currently working on a **backend project**
    🌱 I’m currently learning **Docker, React, Tailwind**
@@ -19,7 +19,7 @@
 
    </div>
 
-<div align="center>   
+<div align="center">   
    <a href="mailto:orfox32@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
    </a>
@@ -41,7 +41,7 @@
 <br/>
 <hr/>
 
-<div align=""center">
+<div align="center">
 <h2>🤝 My Contributions 🤝</h2>
 <br>
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
