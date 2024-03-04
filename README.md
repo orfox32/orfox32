@@ -14,9 +14,9 @@
 <div align="center">
 
    🔭 I’m currently working on a **backend project**
-   <br>
+   <br/><br/>
    🌱 I’m currently learning **Docker, React, Tailwind**
-   <br>
+   <br><br/>
    💬 Ask me about **Node.js, Javascript, c++ or anything**
 
    </div>
