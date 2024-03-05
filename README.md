@@ -34,9 +34,9 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
+      <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> <br>
    <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
 </div>
