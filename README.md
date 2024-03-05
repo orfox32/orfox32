@@ -45,7 +45,7 @@
 <br/>
 
 
-### 🤝 My Contributions 🤝
+<h3 align="center"> 🤝 My Contributions 🤝</h3>
 <br>
 <p align="center" width="100%">
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
