@@ -36,7 +36,8 @@
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <p align="center" width="100%">
-   <img align="center" src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> <br>
+   <img align="center" src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
+      <br>
    <img align="center" src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
 </p>
 
