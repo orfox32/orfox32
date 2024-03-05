@@ -51,7 +51,7 @@
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
 </p>
 
-   <br/><br/>
+   <br/>
 
 
 <h2 align="center"> 🚀 Stats 🚀 </h2>
