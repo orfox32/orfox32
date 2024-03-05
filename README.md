@@ -57,7 +57,7 @@
 <h2 align="center"> 🚀 Stats 🚀 </h2>
 <br>
 <div align="center">
-   <img width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple"/>
+   <img width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10"/>
    <br>
    <img width=390 src="https://github-readme-stats-six-tawny.vercel.app/api?username=orfox32&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10"/>
    <br>
