@@ -43,14 +43,15 @@
 
 <br/>
 
-<div align="center">
-<h2>🤝 My Contributions 🤝</h2>
-<br>
-   <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
 
+<h3 align="center">🤝 My Contributions 🤝</h3>
+<br>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
+</p>
 
    <br/><br/><br/>
-</div>
+
 
 <h2 align="center"> 🚀 Stats 🚀 </h2>
 <br>
