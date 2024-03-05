@@ -23,7 +23,7 @@
 
 <div align="center">   
    <a href="mailto:orfox32@gmail.com">
-      <img style="padding-right:10px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
    </a>
 
    <a href="https://github.com/orfox32">
