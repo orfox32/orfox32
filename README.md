@@ -35,6 +35,7 @@
 <hr/>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br>
 <p align="center" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
       <br>
@@ -44,7 +45,7 @@
 <br/>
 
 
-<h3 align="center">🤝 My Contributions 🤝</h3>
+<h2 align="center">🤝 My Contributions 🤝</h2>
 <br>
 <p align="center">
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
