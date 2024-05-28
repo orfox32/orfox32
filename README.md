@@ -10,7 +10,8 @@
 
 <p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
-<a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow"><img src="https://novatorem-gamma-five.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify" style="max-width: 100%;"></a>
+<a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
+<img src="https://novatorem-gamma-five.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify" style="max-width: 100%;"></a>
 <p dir="auto"></p>
 </div>
 
