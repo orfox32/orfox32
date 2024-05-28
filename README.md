@@ -54,7 +54,7 @@
 <h1></h1>
    <br/>
    
-      <h3 align="center"> 🚀 Stats 🚀 </h3>
+<h3 align="center"> 🚀 Stats 🚀 </h3>
 <br><br>
 <p align="center">
    <img width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10"/>
