@@ -7,7 +7,7 @@
 <h3 align="center">
       A developer from PH 🇵🇭
 </h3>
-
+<p dir="auto">&nbsp;</p>
 
 <!--<p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
