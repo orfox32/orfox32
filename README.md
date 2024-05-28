@@ -10,7 +10,7 @@
 
 <p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
-<a href="https://open.spotify.com/user/omnitenebris" rel="nofollow"><img src="https://camo.githubusercontent.com/fc4839309cafac5f160cb296e6c298d9a4cfa2807529858c623492735e495592/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem-gamma-five.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;"></a>
+<a href="https://open.spotify.com/user/orfox" rel="nofollow"><img src="https://camo.githubusercontent.com/fc4839309cafac5f160cb296e6c298d9a4cfa2807529858c623492735e495592/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem-gamma-five.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;"></a>
 <p dir="auto"></p>
 </div>
 
