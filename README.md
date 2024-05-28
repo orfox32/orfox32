@@ -1,3 +1,5 @@
+[![Spotify](https://novatorem-gamma-five.vercel.app/api/spotify)]
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orfox32.orfox32.visitor-badge" style="max-width: 100%;">
 
 <h1 align="center">
@@ -8,7 +10,7 @@
       A developer from PH 🇵🇭
 </h3>
 
-[![Spotify](https://novatorem-gamma-five.vercel.app/api/spotify)]
+
 <!--<p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
