@@ -4,7 +4,7 @@
       <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9704CF&lines=Hi+there!;I'm+Orfox" style="max-width: 100%" alt="Typing SVG" />
 </h1>
 
-[![Spotify](https://novatorem-gamma-five.vercel.app/api/spotify)](https://open.spotify.com/user/Orfox)
+[![Spotify](https://novatorem-gamma-five.vercel.app/api/spotify)](https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3)
 
 <h3 align="center">
       A developer from PH 🇵🇭
