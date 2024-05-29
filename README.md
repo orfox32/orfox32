@@ -8,6 +8,9 @@
       <a href="https://github.com/orfox32">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
    </a>
+       <a href="mailto:orfox32@gmail.com">
+      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+   </a>
 </div>
 
 <p dir="auto">&nbsp;</p>
@@ -28,16 +31,6 @@
    💬 Ask me about **Node.js, Javascript, c++ or anything**
 
    </div>
-
-<div align="center">   
-   <a href="mailto:orfox32@gmail.com">
-      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-   </a>
-
-   
-
-</div>
-
 
 <hr/>  
 
