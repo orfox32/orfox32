@@ -3,6 +3,7 @@
 <div align="left" dir="auto">
       <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9704CF&lines=Hi+there!;I'm+Orfox;A+Developer+from+PH" style="max-width: 100%" alt="Typing SVG" />
 </div>
+<h3></h3>
 
 <div align="left" dir="auto">
       <a href="https://github.com/orfox32">
