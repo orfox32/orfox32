@@ -47,7 +47,6 @@
    <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
 </p>
 <h1></h1>
-  <br/>
 
 <div>
     <h2>Github Stats</h2>    
