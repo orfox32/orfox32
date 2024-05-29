@@ -16,12 +16,12 @@
    </a>
 </p>
 
-<!--<p dir="auto">&nbsp;</p>
-<div align="center" dir="auto">
+<p dir="auto">&nbsp;</p>
+<p dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
-<img src="https://raw.githubusercontent.com/orfox32/orfox32/main/spotify.svg" alt="Spotify" style="max-width: 100%;"></a>
+<img src="https://raw.githubusercontent.com/orfox32/orfox32/main/spotify.svg" alt="Spotify" align="right" style="max-width: 100%;"></a>
 <p dir="auto"></p>
-</div>-->
+</p>
 
 <br/>
 
