@@ -39,7 +39,7 @@
 <hr/>  
 
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<div>⚒️ Languages-Frameworks-Tools ⚒️</div>
 <br>
 <p align="center" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
