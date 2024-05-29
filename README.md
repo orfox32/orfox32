@@ -2,7 +2,7 @@
 
 <div align="left" dir="auto">
       <h1>
-      <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9704CF&lines=Hi+there!;I'm+Orfox;A+Developer+from+PH" style="max-width: 100%" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=09B8FF&lines=Hi+there!;I'm+Orfox;A+Developer+from+PH" style="max-width: 100%" alt="Typing SVG" />
       </h1>
 </div>
 
