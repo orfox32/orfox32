@@ -36,6 +36,7 @@
    </li>
    </ul>
 
+<p dir="auto">&nbsp;</p>
 <div><b>⚒️Languages-Frameworks-Tools</b></div>
 <br>
 <p align="center" width="100%">
