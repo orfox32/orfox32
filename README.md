@@ -57,7 +57,7 @@
 </div>
 
 <p align="center" dir="auto">
-            <img width="390" src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10" style="max-width:100%;"/>
+            <img width="390" height="169" src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10" style="max-width:100%;"/>
             <img width="390" src="https://github-readme-stats-six-tawny.vercel.app/api?username=orfox32&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10"/>
 </p>
 <p align="center" dir="auto">
