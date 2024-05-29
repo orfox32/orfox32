@@ -41,7 +41,7 @@
       <h2>⚒️Languages-Frameworks-Tools</h2>
 </div>
 <br>
-<p dir="auto" width="100%">
+<p align="center" dir="auto" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
       <br>
    <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
