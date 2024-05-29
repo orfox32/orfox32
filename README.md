@@ -36,9 +36,6 @@
    </li>
    </ul>
 
-<hr/>  
-
-
 <div><b>⚒️Languages-Frameworks-Tools</b></div>
 <br>
 <p align="center" width="100%">
