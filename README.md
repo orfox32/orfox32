@@ -25,15 +25,17 @@
 
 <br/>
 
-<div align="center">
-
+<ul dir="auto">
+   <li>
    🔭 I’m currently working on a **backend project**
-   <br/><br/>
+   </li>
+   <li>
    🌱 I’m currently learning **Docker, React, Tailwind**
-   <br><br/>
+   </li>
+   <li>
    💬 Ask me about **Node.js, Javascript, c++ or anything**
-
-   </div>
+   </li>
+   </ul>
 
 <hr/>  
 
