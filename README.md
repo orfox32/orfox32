@@ -54,8 +54,8 @@
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
 </p>
       <p dir="auto">
-            <img align="right" width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10"/>
-            <img style="padding-right:5px;" align="left" width=390 src="https://github-readme-stats-six-tawny.vercel.app/api?username=orfox32&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10"/>
+            <img width=390 src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10"/>
+            <img  width=390 src="https://github-readme-stats-six-tawny.vercel.app/api?username=orfox32&show_icons=true&count_private=true&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=10"/>
 </p>
      
 </div>
