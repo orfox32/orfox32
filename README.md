@@ -37,7 +37,9 @@
    </ul>
 
 <p dir="auto">&nbsp;</p>
-<div><b>⚒️Languages-Frameworks-Tools</b></div>
+<div>
+      <h2>⚒️Languages-Frameworks-Tools</h2>
+</div>
 <br>
 <p dir="auto" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
