@@ -7,21 +7,21 @@
 </div>
 
 
-<div align="left" dir="auto">
+<p dir="auto">
       <a href="https://github.com/orfox32">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
    </a>
        <a href="mailto:orfox32@gmail.com">
       <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
    </a>
-</div>
+</p>
 
-<p dir="auto">&nbsp;</p>
+<!--<p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
 <img src="https://raw.githubusercontent.com/orfox32/orfox32/main/spotify.svg" alt="Spotify" style="max-width: 100%;"></a>
 <p dir="auto"></p>
-</div>
+</div>-->
 
 <br/>
 
