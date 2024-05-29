@@ -27,13 +27,13 @@
 
 <ul dir="auto">
    <li>
-   🔭 I’m currently working on a **backend project**
+   🔭 I’m currently working on a <b>backend project</b>
    </li>
    <li>
-   🌱 I’m currently learning **Docker, React, Tailwind**
+   🌱 I’m currently learning <b>Docker, React, Tailwind</b>
    </li>
    <li>
-   💬 Ask me about **Node.js, Javascript, c++ or anything**
+   💬 Ask me about <b>Node.js, Javascript, c++ or anything</b>
    </li>
    </ul>
 
