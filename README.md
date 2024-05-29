@@ -49,6 +49,9 @@
 <h1></h1>
   <br/>
 
+<div>
+    <h2>Github Stats</h2>    
+</div>
 <h3 align="center"> 🤝 My Contributions 🤝</h3>
 <br>
 <p align="center" width="100%">
