@@ -4,6 +4,12 @@
       <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=9704CF&lines=Hi+there!;I'm+Orfox;A+Developer+from+PH" style="max-width: 100%" alt="Typing SVG" />
 </div>
 
+<div align="left" dir="auto">
+      <a href="https://github.com/orfox32">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+   </a>
+</div>
+
 <p dir="auto">&nbsp;</p>
 <div align="center" dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
@@ -28,9 +34,7 @@
       <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
    </a>
 
-   <a href="https://github.com/orfox32">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-   </a>
+   
 
 </div>
 
