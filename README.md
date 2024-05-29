@@ -39,7 +39,7 @@
 <p dir="auto">&nbsp;</p>
 <div><b>⚒️Languages-Frameworks-Tools</b></div>
 <br>
-<p align="center" width="100%">
+<p dir="auto" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
       <br>
    <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
