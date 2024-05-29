@@ -49,16 +49,12 @@
 <p dir="auto">&nbsp;</p>
 
 <div>
-    <h2>Github Stats</h2>    
-</div>
-<h3 align="center"> 🤝 My Contributions 🤝</h3>
-<br>
-<p align="center" width="100%">
+    <h2>🚀Github Stats</h2>    
+   <p align="center" width="100%">
    <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
 </p>
-<h1></h1>
-   <br/>
-   
+</div>
+
 <h3 align="center"> 🚀 Stats 🚀 </h3>
 <br><br>
 <p align="center">
