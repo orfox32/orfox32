@@ -56,8 +56,8 @@
 
 </div>
 
-<p dir="auto">
-            <img align="center" src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10" style="max-width:100%;"/>
+<p align="center" dir="auto">
+            <img src="https://streak-stats.demolab.com?user=orfox32&theme=midnight-purple&border_radius=10" style="max-width:100%;"/>
 </p>
 
 
