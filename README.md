@@ -13,7 +13,7 @@
 </p>
 </div>
 
-<br/>
+<p dir="auto">&nbsp;</p>
 
 <ul dir="auto">
    <li>
