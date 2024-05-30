@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orfox32.orfox32.visitor-badge" style="max-width: 100%;">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orfox32.orfox32.visitor-badge" style="max-width: 100%;">-->
 
 <div align="left" dir="auto">
       <h1>
