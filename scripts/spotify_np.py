@@ -119,7 +119,7 @@ def makeSVG(data, background_color, border_color):
     if not "is_playing" in data:
         #contentBar = "" #Shows/Hides the EQ bar if no song is currently playing
         currentStatus = "Recently played:"
-        recentPlays = get(RECENTLY_PLAYING_URL)
+        recentPlays = recentlyPlayed(RECENTLY_PLAYING_URL)
         recentPlaysLength = len(recentPlays["items"])
         itemIndex = random.randint(0, recentPlaysLength - 1)
         item = recentPlays["items"][itemIndex]["track"]
@@ -163,7 +163,11 @@ def catch_all():
     background_color = "0d1117"
     border_color = "ffffff"
 
-    data = nowPlaying()
+    try:
+        data = nowPlaying(NOW_PLAYING_URL)
+    except Exception:
+        data = recentlyPlayed(RECENTLY_PLAYING_URL)
+        
     svg = makeSVG(data, background_color, border_color)
 
     with open('spotify.svg', 'w') as f:
