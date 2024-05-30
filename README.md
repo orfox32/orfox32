@@ -42,9 +42,9 @@
 </div>
 <p dir="auto">&nbsp;</p>
 <p align="center" dir="auto" width="100%">
-   <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp&theme=light" /> 
+   <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp&theme=dark" /> 
       
-   <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
+   <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio&theme=dark" />
 </p>
 <p dir="auto">&nbsp;</p>
 
