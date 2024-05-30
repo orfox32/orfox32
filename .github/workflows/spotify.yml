@@ -24,16 +24,7 @@ jobs:
           SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
-          python ./scripts/spotify_np.py
-          
-      - name: Set background and border colors
-        run: |
-          background_color="#ffffff"  # Set your background color here
-          border_color="#000000"      # Set your border color here
-
-          sed -i "s/{{ background_color }}/$background_color/g" spotify.svg
-          sed -i "s/{{ border_color }}/$border_color/g" spotify.svg
-          
+          python ./scripts/spotify_np.py     
       - name: Commit and push if changed
         run: |
           git add .
