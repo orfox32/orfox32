@@ -42,8 +42,8 @@
 </div>
 <br>
 <p align="center" dir="auto" width="100%">
-   <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
-      <br>
+   <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp&theme=dark" /> 
+      <p dir="auto"></p>
    <img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio" />
 </p>
 <p dir="auto">&nbsp;</p>
