@@ -164,9 +164,9 @@ def catch_all():
     border_color = "ffffff"
 
     try:
-        data = nowPlaying(NOW_PLAYING_URL)
+        data = nowPlaying()
     except Exception:
-        data = recentlyPlayed(RECENTLY_PLAYING_URL)
+        data = recentlyPlayed()
         
     svg = makeSVG(data, background_color, border_color)
 
