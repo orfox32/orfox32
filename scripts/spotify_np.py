@@ -98,7 +98,7 @@ def gradientGen(albumArtURL, color_count):
 
 def getTemplate():
     try:
-        file = open("api/templates.json", "r")
+        file = open("scripts/templates.json", "r")
         templates = json.loads(file.read())
         return templates["templates"][templates["current-theme"]]
     except Exception as e:
