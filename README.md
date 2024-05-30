@@ -23,8 +23,6 @@
 </p>
 </div>
 
-<p dir="auto">&nbsp;</p>
-
 <ul dir="auto">
    <li>
    🔭 I’m currently working on a <b>backend project</b>
