@@ -1,11 +1,13 @@
+from io import BytesIO
 import os
 import json
 import random
 import requests
 
+from colorthief import ColorThief
 from base64 import b64encode
 from dotenv import load_dotenv, find_dotenv
-from flask import Flask, Response, jsonify, render_template, templating, request
+from flask import Flask, Response, render_template, request
 
 load_dotenv(find_dotenv())
 
