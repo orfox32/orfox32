@@ -43,7 +43,6 @@
 <p dir="auto">&nbsp;</p>
 <p align="center" dir="auto" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp,html,ae,mysql,ps,qt,vscode,visualstudio&theme=dark" style="padding:10px;" /> 
-   <!--<img src="https://skillicons.dev/icons?i=html,ae,mysql,ps,qt,vscode,visualstudio&theme=dark" style="padding:10px;"/>-->
 </p>
 <p dir="auto">&nbsp;</p>
 
