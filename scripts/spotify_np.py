@@ -159,8 +159,8 @@ def makeSVG(data, background_color, border_color):
         return render_template(getTemplate(), **dataDict)
 
 def catch_all():
-    background_color = "181414"
-    border_color = "181414"
+    background_color = "0d1117"
+    border_color = "ffffff"
 
     data = nowPlaying()
     svg = makeSVG(data, background_color, border_color)
