@@ -22,6 +22,8 @@
 </p>
 </div>
 
+<br/>
+
 <ul dir="auto">
    <li>
    🔭 I’m currently working on a <b>backend project</b>
