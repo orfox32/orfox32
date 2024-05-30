@@ -6,16 +6,6 @@
       </h1>
 </div>
 
-
-<p dir="auto">
-      <a href="https://github.com/orfox32">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-   </a>
-       <a href="mailto:orfox32@gmail.com">
-      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-   </a>
-</p>
-
 <div>
 <p dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
@@ -35,6 +25,15 @@
    <li>
    💬 Ask me about <b>Node.js, Javascript, c++ or anything</b>
    </li>
+      <p dir="auto">
+      <a href="https://github.com/orfox32">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+   </a>
+       <a href="mailto:orfox32@gmail.com">
+      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+   </a>
+</p>
+
    </ul>
 
 <p dir="auto">&nbsp;</p>
