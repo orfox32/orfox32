@@ -38,7 +38,7 @@
 
 <p dir="auto">&nbsp;</p>
 <div>
-      <h2>⚒️Languages-Frameworks-Tools</h2>
+      <h2>⚒️Languages, Frameworks & Tools</h2>
 </div>
 <br>
 <p align="center" dir="auto" width="100%">
