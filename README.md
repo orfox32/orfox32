@@ -40,7 +40,7 @@
 <div>
       <h2>⚒️Languages, Frameworks & Tools</h2>
 </div>
-<br>
+<p dir="auto">&nbsp;</p>
 <p align="center" dir="auto" width="100%">
    <img src="https://skillicons.dev/icons?i=js,discordjs,java,express,github,mongodb,nodejs,cpp" /> 
       
