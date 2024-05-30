@@ -1,13 +1,20 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=orfox32.orfox32.visitor-badge" style="max-width: 100%;">-->
 
-<p dir="auto">&nbsp;</p>
 <div align="left" dir="auto">
       <h1>
       <img src="https://readme-typing-svg.demolab.com??font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=09B8FF&lines=Hi+there!;I'm+Orfox;A+Developer+from+PH" style="max-width: 100%" alt="Typing SVG" />
       </h1>
 </div>
 
-<p dir="auto">&nbsp;</p>
+ <p dir="auto">
+      <a href="https://github.com/orfox32">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+   </a>
+       <a href="mailto:orfox32@gmail.com">
+      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+   </a>
+</p>
+
 <div>
 <p dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
@@ -28,14 +35,7 @@
    💬 Ask me about <b>Node.js, Javascript, c++ or anything</b>
    </li>
    </ul>
-     <p dir="auto">
-      <a href="https://github.com/orfox32">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-   </a>
-       <a href="mailto:orfox32@gmail.com">
-      <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-   </a>
-</p>
+    
 
 <p dir="auto">&nbsp;</p>
 <div>
