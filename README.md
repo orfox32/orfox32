@@ -14,7 +14,7 @@
       <img style="padding-right:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
    </a>
         <a href="https://discord.com/users/530694588327919616">
-            <img src="https://lanyard.cnrad.dev/api/530694588327919616?theme=dark&animated=false&borderRadius=5px&idleMessage=%20doing%20something%20and%20listening..." align="right" width="20%" style="max-width: 100%;">
+            <img src="https://lanyard.cnrad.dev/api/530694588327919616?theme=dark&animated=false&borderRadius=5px&idleMessage=%20doing%20something%20and%20listening..." width="20%" style="max-width: 100%;">
       </a>
 </p>
 
