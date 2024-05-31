@@ -15,6 +15,7 @@
    </a>
 </p>
 
+<p dir="auto">&nbsp;</p>
 <div>
 <p dir="auto">
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
@@ -33,7 +34,6 @@
    </ul>
 </div>
 
-<br/>
 <p dir="auto">&nbsp;</p>
 <div>
       <h2>⚒️Languages, Frameworks & Tools</h2>
