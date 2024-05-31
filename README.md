@@ -51,7 +51,7 @@
 <div>
     <h2>🚀Github Stats</h2>    
    <p align="center" width="100%">
-   <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake.svg"/>
+   <img src="https://raw.githubusercontent.com/orfox32/orfox32/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 </div>
