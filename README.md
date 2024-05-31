@@ -18,12 +18,13 @@
 <p dir="auto">&nbsp;</p>
 <div>
 <p dir="auto">
-      <a href="https://discord.com/users/530694588327919616">
+      <!--<a href="https://discord.com/users/530694588327919616">
             <img src="https://lanyard.cnrad.dev/api/530694588327919616?theme=dark&animated=false&borderRadius=5px&idleMessage=%20doing%20something%20and%20listening..." align="right" width="50%" style="max-width: 100%;">
-      </a>
+      </a>-->
 <a href="https://open.spotify.com/user/rffnydlophj5wi21i10ywk3n3" rel="nofollow">
 <img src="https://raw.githubusercontent.com/orfox32/orfox32/main/spotify.svg" alt="Spotify" align="right" style="max-width: 100%;"></a>
-      <ul dir="auto">
+   </p>
+     <ul dir="auto">
    <li>
    🔭 I’m currently working on a <b>backend project</b>
    </li>
@@ -34,7 +35,6 @@
    💬 Ask me about <b>Node.js, Javascript, c++ or anything</b>
    </li>
    </ul>
-   </p>
 </div>
 
 <p dir="auto">&nbsp;</p>
