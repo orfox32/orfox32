@@ -1,0 +1,33 @@
+name: Spotify Now Playing
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest spotify song svg.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3 # Update to v3 if available
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v3 # Update to v3 if available
+        with:
+          python-version: 3.9
+      - name: requirements.txt
+        run: |
+          pip install -r ./scripts/requirements.txt 
+      - name: generate
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          python ./scripts/spotify_np.py     
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Auto-update spotify status" || echo "No changes to commit"
+          git push origin main
